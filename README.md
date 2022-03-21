@@ -13,5 +13,6 @@ check this link for reference [retiring_titles.csv](https://github.com/TahaniSur
 
 * Mentorship Candidates tables below is the list of candidates that can qualify to become members of the mentorship program, they can be referenced as "senior" employees amongst the general staff, check this link for reference [mentorship_table.csv](https://github.com/TahaniSury/Pewlett-Hackard-Analysis/blob/main/mentorship_table.csv)
 
-
 ## Summary:
+
+Based on the findings of analysis Pewlett Hackard analysis is potentially facing over 90,000 vacant positions company wide. Taking into consideration the low amount of employees who are eligible for mentorship, Pewlett hackard will face a great deficit once a majority of eligible employees retire.
