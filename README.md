@@ -8,7 +8,6 @@ The ERD help visualize the relationship between the data sources and the structu
 
 ![QuickDBD-export](https://github.com/TahaniSury/Pewlett-Hackard-Analysis/blob/main/QuickDBD-export.png)
 
-And after conducting the analysis it was found that there is currently a large number of employees of retirement age and there so many of them more than 50% of them are holding senior titles 
-
+And after conducting the analysis it was found that there is currently a large number of employees of retirement age and there so many of them more than 50% of them are holding senior titles, check this link for reference 
 [retiring_titles.csv](https://github.com/TahaniSury/Pewlett-Hackard-Analysis/blob/main/retiring_titles.csv).
 
