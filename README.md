@@ -11,7 +11,7 @@ The purpose of this analysis is to collect a Data for Pewlett Hackard with detai
 * And after conducting the analysis it was found that there is currently a large number of employees of retirement age and there so many of them more than 50% of them are holding senior titles, so now we collect how many position will be opened in the near future 
 check this link for reference [retiring_titles.csv](https://github.com/TahaniSury/Pewlett-Hackard-Analysis/blob/main/retiring_titles.csv).
 
-* Mentorship Candidates tables below is the list of candidates that can qualify to become members of the mentorship program, they can be referenced as "senior" employees amongst the general staff
+* Mentorship Candidates tables below is the list of candidates that can qualify to become members of the mentorship program, they can be referenced as "senior" employees amongst the general staff, check this link for reference [mentorship_table.csv](https://github.com/TahaniSury/Pewlett-Hackard-Analysis/blob/main/mentorship_table.csv)
 
 
 ## Summary:
