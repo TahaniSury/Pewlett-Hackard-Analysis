@@ -5,5 +5,5 @@ The purpose of this analysis is to collect a Data for Pewlett Hackard with detai
 
 ## Results:
 I used the ERD to help visualize the relationship between the data sources and the structure of the company's employee plan  
-![QuickDBD-export](https://github.com/TahaniSury/Pewlett-Hackard-Analysis/blob/main/QuickDBD-export.png
+![QuickDBD-export](https://github.com/TahaniSury/Pewlett-Hackard-Analysis/blob/main/QuickDBD-export.png)
 
